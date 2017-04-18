@@ -1,10 +1,15 @@
 # HuffmanCompression
 
 # Relevant files:
+
 henc9169.java
+
 hdec9169.java
+
 Write.java
+
 Read.java
+
 CharacterCount.java
 
 # Compilation instructions:
